@@ -1,2 +1,2 @@
-# VioletCheese_Study_Python
-Passion Coding/ Happy Circuit :memo:
+# 1일 1코딩 1커밋
+
