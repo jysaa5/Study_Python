@@ -2,7 +2,7 @@
 <ul>
   <li>
     <h4>
-    알고리즘
+    알고리즘 (Algorithm)
     </h4>  
     <ul>
       <li>
