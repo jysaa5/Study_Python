@@ -9,7 +9,7 @@
         <h5>Tree</h5>
         <ul>
           <li>
-            <h5>Binary Search Tree</h5>
+            <h5><a href="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree">Binary Search Tree</a></h5>
           </li>
         </ul>
       </li>
