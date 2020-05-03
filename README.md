@@ -7,7 +7,7 @@
     <ul>
       <li>
         <h5>
-        <a href =""> 이진 탐색 트리 (Binary Search Tree)
+        <a href =""> Binary Search Tree
         </h5>
       </li>
     </ul>
