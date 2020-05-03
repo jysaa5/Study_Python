@@ -6,7 +6,9 @@
     </h5>  
     <ul>
       <li>
-        이진 탐색 트리(Binary 
+        <h5>
+        이진 탐색 트리(Binary Search Tree)
+        </h5>
       </li>
     </ul>
   </li>
