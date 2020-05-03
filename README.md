@@ -14,7 +14,14 @@
   </li>
     <li>
     <h4>
-      <a href ="https://www.edwith.org/pythonforeverybody/joinLectures/12597">edwith</a>: <a href ="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Basic">모두를 위한 프로그래밍: 파이썬</a>
-    </h4>  
+      <a href ="https://www.edwith.org/">edwith</a>
+      </h4>
+    <ul>
+        <li>
+          <h5>
+      <a href ="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Basic">모두를 위한 프로그래밍: 파이썬</a>
+          </h5>
+        </li>
+      </ul>
   </li>
 </ul>
