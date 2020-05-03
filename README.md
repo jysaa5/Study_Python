@@ -1,4 +1,5 @@
-# 1일 1코딩 1커밋
+# 1일 1커밋 (1 commit per day)
+# 매일 개발하는 습관 갖기
 <ul>
   <li>
     <h4>
@@ -7,7 +8,7 @@
     <ul>
       <li>
         <h5>
-        이진 탐색 트리(Binary Search Tree)
+        이진 탐색 트리 (Binary Search Tree)
         </h5>
       </li>
     </ul>
