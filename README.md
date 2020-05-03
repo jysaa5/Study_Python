@@ -7,7 +7,7 @@
   </li>
     <li>
     <h5>
-      <a href ="https://www.edwith.org/pythonforeverybody/joinLectures/12597">edWith</a>: 모두를 위한 프로그래밍
+      <a href ="https://www.edwith.org/pythonforeverybody/joinLectures/12597">edWith</a>: <a href ="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Basic">모두를 위한 프로그래밍</a>
     </h5>  
   </li>
 </ul>
