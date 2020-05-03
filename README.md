@@ -2,8 +2,13 @@
 <ul>
   <li>
     <h5>
-    Python 버전 알고리즘: Binary Tree
+    알고리즘
     </h5>  
+    <ul>
+      <li>
+        이진 탐색 트리(Binary 
+      </li>
+    </ul>
   </li>
     <li>
     <h5>
