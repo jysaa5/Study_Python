@@ -19,7 +19,7 @@
     <ul>
         <li>
           <h5>
-      <a href ="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Basic">모두를 위한 프로그래밍: 파이썬</a>
+      <a href ="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Edwith/Programming_for_everyone">모두를 위한 프로그래밍: 파이썬</a>
           </h5>
         </li>
       </ul>
