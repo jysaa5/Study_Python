@@ -1,5 +1,4 @@
-# 1일 1커밋 (1 commit per day)
-# 매일 개발하는 습관 갖기
+# 1일 1커밋 (1 commit per day) - 매일 개발하는 습관 갖기
 <ul>
   <li>
     <h4>
