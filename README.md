@@ -7,7 +7,7 @@
   </li>
     <li>
     <h5>
-    edWith: 모두를 위한 프로그래밍 
+      <a href ="https://www.edwith.org/pythonforeverybody/joinLectures/12597">edWith</a>: 모두를 위한 프로그래밍
     </h5>  
   </li>
 </ul>
