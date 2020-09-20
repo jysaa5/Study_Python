@@ -9,7 +9,12 @@
 <li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/Graph/Dijkstra%20algorithm.py">Dijkstra algorithm (다익스트라 알고리즘)</a></h5></li>
 </ul>
 </li>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/NP_Complete/Set_Covering.py">NP-Complete (완전 탐색, 전체 탐색)</a></h5></li>
+
+<li><h5>NP-Complete (완전 탐색, 전체 탐색)</h5>
+<ul>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/NP_Complete/Set_Covering.py">Set Covering (집합 커버링 문제)</a></h5></li>
+</ul>
+</li>
 </ul>
 </li>
 
