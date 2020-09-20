@@ -1,7 +1,7 @@
 # 1일 1커밋 (1 commit per day)
 <ul>
 <li>
-<h4>알고리즘 (Algorithm)</h4>  
+<h4>Algorithm (알고리즘)</h4>  
 <ul>  
 <li><h5>Grap (그래프)</h5>
 <ul>
@@ -27,7 +27,7 @@
 </ul>
 </li>
 
-<li><h4>Python Library</h4>
+<li><h4>Python Library (파이썬 라이브러리)</h4>
 <ul>
 <li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/DataFrame">DataFrame</a></h5></li>
 <li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Matplotlib">Matplotlib</a></h5></li>  
