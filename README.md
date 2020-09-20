@@ -1,17 +1,16 @@
 # 1일 1커밋 (1 commit per day)
 <ul>
-  <li>
-    <h4>알고리즘 (Algorithm)</h4>  
-    <ul>
-      <li>
-        <h5>Tree</h5>
-        <ul>
-         <li>
-         <h5><a href="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree">Binary Search Tree</a></h5>
-         </li>
-       </ul>
-    </li>
-   </ul>
+<li>
+<h4>알고리즘 (Algorithm)</h4>  
+<ul>  
+<li><h5>Grap (그래프)</h5>
+<ul>
+<li><h5><a href="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree">Binary Search Tree (이진 검색 트리)</a></h5></li>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/Graph/Dijkstra%20algorithm.py">Dijkstra algorithm (다익스트라 알고리즘)</a></h5></li>
+</ul>
+</li>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/NP_Complete/Set_Covering.py">NP-Complete (완전 탐색, 전체 탐색)</a></h5></li>
+</ul>
 </li>
 
 <li>
