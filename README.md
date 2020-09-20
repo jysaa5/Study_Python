@@ -25,7 +25,11 @@
 
 <li><h4>Python Library</h4>
 <ul>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Pandas">Pandas</a></h5></ul>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/DataFrame">DataFrame</a></h5></li>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Matplotlib">Matplotlib</a></h5></li>  
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Numpy">Numpy</a></h5></li> 
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Pandas">Pandas</a></h5></li>  
+</ul>
 </li>
 
 <li>
