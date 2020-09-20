@@ -37,9 +37,11 @@
 <ul>
 <li><h4>NLP: Natural Language Processing (자연어 처리)</h4></li>
 <ul>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Cleaning_Normalization">Cleaning & Normalization</a></h5></li>
-<li><h5><a href="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/AI/One_Hot_Encoding">One-Hot Encoding</a></h5></li>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stemming_Lemmatization">Stemming & Lemmatization</a></h5></li>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Cleaning_Normalization">Cleaning & Normalization (정제 & 정규화)</a></h5></li>
+<li><h5><a href="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/AI/One_Hot_Encoding">One-Hot Encoding (원-핫 인코딩)</a></h5></li>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stemming_Lemmatization">Stemming & Lemmatization (어간 추출 & 표제어 추출)</a></h5></li>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stopword">Stopword (불용어)</a></h5></li>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Tokenizatior">Tokenizatior (토큰화)</a></h5></li>
 </ul>
 </ul>
 </li>
