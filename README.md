@@ -35,7 +35,10 @@
 <li>
 <h4>AI</h4>
 <ul>
+<h4>NLP: Natural Language Processing (자연어 처리)</h4>
+<ul>
 <li><h5><a href="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/AI/One_Hot_Encoding">One-Hot Encoding</a></h5></li>
+</ul>
 </ul>
 </li>
 </ul>
