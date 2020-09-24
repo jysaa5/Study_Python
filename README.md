@@ -1,4 +1,4 @@
-# 1일 1커밋 (1 commit per day)
+# Study for Python & 1일 1코딩 1커밋
 <ul>
 <li>
 <h4>Algorithm (알고리즘)</h4>  
