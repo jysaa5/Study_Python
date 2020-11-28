@@ -1,3 +1,5 @@
+# 11653번: 소인수분해
+# solution 1
 number = int(input())
 i = 2
 while number != 1:
