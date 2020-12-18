@@ -47,6 +47,11 @@
 <li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stopword">Stopword (불용어)</a></h5></li>
 <li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Tokenizatior">Tokenizatior (토큰화)</a></h5></li>
 </ul>
+<li><h4>Regression (회귀)</h4></li>
+<ul>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Regression.py">Regression (회귀)</h5></li>
+<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Simple_Linear_Regression.py">Simple Linear Regression (단순 선형 회귀)</h5></li>
+</ul>
 </ul>
 </li>
 </ul>
