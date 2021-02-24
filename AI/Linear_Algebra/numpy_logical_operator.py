@@ -1,6 +1,5 @@
 import numpy as np
 
-
 def main():
     A = get_matrix()
     print(A)
@@ -20,7 +19,6 @@ def get_matrix():
 
 
 def matrix_tutorial(A):
-    # 아래 코드를 완성하세요.
     # 2
     B = A.T
     print(B)

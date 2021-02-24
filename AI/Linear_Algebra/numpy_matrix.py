@@ -4,7 +4,6 @@ def main():
     print(matrix_tutorial())
 
 def matrix_tutorial():
-    # Create the matrix A here...
     A = [
         [1, 4, 5, 8],
         [2, 1, 7, 3],
