@@ -1,4 +1,4 @@
-# Study for Python & 1일 1코딩 1커밋
+# Study Python
 <ul>
 <li>
 <h4>Algorithm (알고리즘)</h4>  
