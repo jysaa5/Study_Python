@@ -3,24 +3,13 @@
 + Grap (그래프)
   + [Binary Search Tree (이진 검색 트리)](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree)
   + [Dijkstra algorithm (다익스트라 알고리즘)](https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/Graph/Dijkstra%20algorithm.py)
++ NP-Complete (완전 탐색, 전체 탐색)
+  + [Set Covering (집합 커버링 문제)](https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/NP_Complete/Set_Covering.py)
 
-
-<li><h5>NP-Complete (완전 탐색, 전체 탐색)</h5>
-<ul>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/NP_Complete/Set_Covering.py">Set Covering (집합 커버링 문제)</a></h5></li>
-</ul>
-</li>
-</ul>
-</li>
-
-<li>
-<h4><a href ="https://www.edwith.org/">edwith</a></h4>
-<ul>
-<li>
-<h5><a href ="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Edwith/Programming_for_everyone">모두를 위한 프로그래밍: 파이썬</a></h5>
-</li>
-</ul>
-</li>
+--------------------------
+### Python Study
++ [edwith](https://www.edwith.org/)
+  + [모두를 위한 프로그래밍: 파이썬](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Edwith/Programming_for_everyone)
 
 <li><h4>Python Library (파이썬 라이브러리)</h4>
 <ul>
