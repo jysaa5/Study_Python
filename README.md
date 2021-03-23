@@ -9,7 +9,7 @@
 --------------------------
 ### Coding Test
 + [BAEKJOON](https://www.acmicpc.net/)
-  + [code]() 
+  + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/BaekJoo_Ex) 
 --------------------------
 ### Python Study
 + [edwith](https://www.edwith.org/)
