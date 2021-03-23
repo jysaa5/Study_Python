@@ -1,14 +1,9 @@
-# Study Python
-<ul>
-<li>
-<h4>Algorithm (알고리즘)</h4>  
-<ul>  
-<li><h5>Grap (그래프)</h5>
-<ul>
-<li><h5><a href="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree">Binary Search Tree (이진 검색 트리)</a></h5></li>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/Graph/Dijkstra%20algorithm.py">Dijkstra algorithm (다익스트라 알고리즘)</a></h5></li>
-</ul>
-</li>
+# Python
+### Algorithm (알고리즘)
++ Grap (그래프)
+  + [Binary Search Tree (이진 검색 트리)](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree)
+  + [Dijkstra algorithm (다익스트라 알고리즘)](https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/Graph/Dijkstra%20algorithm.py)
+
 
 <li><h5>NP-Complete (완전 탐색, 전체 탐색)</h5>
 <ul>
