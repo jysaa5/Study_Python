@@ -1,5 +1,5 @@
 # Python
-### Algorithm (알고리즘)
+### Algorithm
 + Grap (그래프)
   + [Binary Search Tree (이진 검색 트리)](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree)
   + [Dijkstra algorithm (다익스트라 알고리즘)](https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/Graph/Dijkstra%20algorithm.py)
@@ -11,14 +11,13 @@
 + [edwith](https://www.edwith.org/)
   + [모두를 위한 프로그래밍: 파이썬](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Edwith/Programming_for_everyone)
 
-<li><h4>Python Library (파이썬 라이브러리)</h4>
-<ul>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/DataFrame">DataFrame</a></h5></li>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Matplotlib">Matplotlib</a></h5></li>  
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Numpy">Numpy</a></h5></li> 
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Pandas">Pandas</a></h5></li>  
-</ul>
-</li>
+--------------------------
+### Python Library
++ [DataFrame]("https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/DataFrame")
++ [Matplotlib]("https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Matplotlib")
++ [Numpy]("https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Numpy")
++ [Pandas]("https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Pandas")
+
 
 <li>
 <h4>AI</h4>
