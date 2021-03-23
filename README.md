@@ -30,16 +30,11 @@
 ### AI
 + NLP: Natural Language Processing (자연어 처리)
   + [Cleaning & Normalization (정제 & 정규화)](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Cleaning_Normalization)
-<li><h5><a href="https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/AI/One_Hot_Encoding">One-Hot Encoding (원-핫 인코딩)</a></h5></li>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stemming_Lemmatization">Stemming & Lemmatization (어간 추출 & 표제어 추출)</a></h5></li>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stopword">Stopword (불용어)</a></h5></li>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Tokenizatior">Tokenizatior (토큰화)</a></h5></li>
-</ul>
-<li><h4>Regression (회귀)</h4></li>
-<ul>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Regression.py">Regression (회귀)</h5></li>
-<li><h5><a href="https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Simple_Linear_Regression.py">Simple Linear Regression (단순 선형 회귀)</h5></li>
-</ul>
-</ul>
-</li>
-</ul>
+  + [One-Hot Encoding (원-핫 인코딩)](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/AI/One_Hot_Encoding)
+  + [Stemming & Lemmatization (어간 추출 & 표제어 추출)](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stemming_Lemmatization)
+  + [Stopword (불용어)](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stopword)
+  + [Tokenizatior (토큰화)](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Tokenizatior)
+
++ Regression (회귀)
+  + [Regression (회귀)](https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Regression.py) 
+  + [Simple Linear Regression (단순 선형 회귀)](https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Simple_Linear_Regression.py)
