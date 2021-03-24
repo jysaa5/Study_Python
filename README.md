@@ -1,4 +1,9 @@
 # Python
+### Python Study
++ [edwith](https://www.edwith.org/)
+  + [모두를 위한 프로그래밍: 파이썬](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Edwith/Programming_for_everyone)
+
+--------------------------
 ### Algorithm
 + Grap (그래프)
   + [Binary Search Tree (이진 검색 트리)](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree)
@@ -10,10 +15,6 @@
 ### Coding Test
 + [BAEKJOON](https://www.acmicpc.net/)
   + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/BaekJoo_Ex) 
---------------------------
-### Python Study
-+ [edwith](https://www.edwith.org/)
-  + [모두를 위한 프로그래밍: 파이썬](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Edwith/Programming_for_everyone)
 
 --------------------------
 ### Python Library
