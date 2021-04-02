@@ -1,5 +1,3 @@
-
-
 # Generator (제너레이터)
 def get_natural_number():
     n = 0
