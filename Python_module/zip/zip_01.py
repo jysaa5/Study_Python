@@ -1,4 +1,4 @@
-# zip
+# zip(): 동일한 개수로 이루어진 자료형을 묶어 주는 역할을 하는 함수.
 numbers = [1, 2, 3]
 letters = ["A", "B", "C"]
 for pair in zip(numbers, letters):
