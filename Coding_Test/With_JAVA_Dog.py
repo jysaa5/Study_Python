@@ -87,3 +87,8 @@ import json
 JSON독 = json.dumps(독, ensure_ascii=False)
 print(JSON독)
 print(JSON독[0])
+print(JSON독[:10])
+print('----------------------------------------------------------')
+JSON독 = json.loads(JSON독)
+print(JSON독)
+print(JSON독[0])
