@@ -74,14 +74,14 @@ print('------------------------')
 print(가중치누적값)
 print('------------------------')
 print(좌표저장)
-
+print('------------------------')
 
 for i in range(len(cross_)):
     for j in range(4, -1, -1):
         print(i, j)
         if i == 0 and j == 4:
             가중치누적값[0][4] = cross_[0][4]
-            좌표저장[i][j] = [i, j]
+            좌표저장[i][j] = [99, 99]
         elif i == 0:
             가중치누적값[i][j] = 가중치누적값[i][j+1] + cross_[i][j]
             좌표저장[i][j] = [i, j+1]
@@ -89,4 +89,27 @@ for i in range(len(cross_)):
             가중치누적값[i][j] = 가중치누적값[i-1][j] + cross_[i][j]
             좌표저장[i][j] = [i-1, j]
         else:
-            
+            가중치누적값[i][j] = 가중치누적값[i][j+1] + cross_[i][j]
+            좌표저장[i][j] = [i, j+1]
+
+print(좌표저장)
+print('------------------------')
+print(좌표저장[len(cross_)-1][0])
+print('------------------------')
+for k in range(10):
+    if k == 0:
+        i, j = 좌표저장[len(cross_)-1][0]
+    else:
+        i, j = 좌표저장[i][j]
+    print(i, j)
+print('------------------------')
+k = 0
+while True:
+    if k == 0:
+        i, j = 좌표저장[len(cross_)-1][0]
+    else:
+        i, j = 좌표저장[i][j]
+    if i == 99 and j == 99:
+        break
+    k += 1
+    print(i, j)
