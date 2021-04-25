@@ -86,3 +86,119 @@ print(f1(n))
 4.  f(100)  2    2*f(1)     2*1
 5.  f(100)  1    1          1
 '''
+
+# 문제 접근 방법
+'''
+1. 반복문의 경우는 Bottom-up(작은 문제에서 출발)
+2. 재귀의 경우는 Top-down(큰 문제에서 출발) -> 재귀 경우는 꼭 종료 조건이 있어야 한다.
+'''
+
+# 무한루프
+while True:
+    if input('##') == 'exit':
+        break
+    if input('##') == 'hi':
+        print('hello world')
+    else:
+        continue
+
+# 무한루프 - 재귀함수
+def console():
+    if input('##') == 'exit':
+        return None
+    if input('##') == 'hi':
+        print('hello world')
+    console()
+
+console()
+
+# 2진수 구하기 - 반복문
+print(bin(11)[2:])
+print(oct(11))
+print(hex(11))
+
+x = int(input('2진수로 바꿀 숫자를 입력하세요: '))
+result = ''
+while True:
+    if x % 2 == 0:
+        result += '0'
+    else:
+        result += '1'
+    x = x // 2
+    if x == 1:
+        result += str(x)
+        print(result[::-1])
+        break
+
+'''
+   나눈 수  몫    나머지
+1. 2       11   1
+2. 2       5    1
+3. 2       2    0
+4.         1    
+'''
+
+def 이진수구하기(입력값):
+    if 입력값 < 2:
+        print(입력값)
+    else:
+        이진수구하기(입력값//2)
+        print(입력값%2)
+이진수구하기(11)
+
+def 이진수구하기(입력값):
+    if 입력값 < 2:
+        return str(입력값)
+    else:
+        return str(이진수구하기(입력값//2)+str(입력값%2))
+
+print(이진수구하기(11))
+'''
+이진수구하가(11) -> str(이진수구하기(5)) + str(1) -> 1011
+이진수구하기(5)  -> str(이진수구하기(2)) + str(1) -> 101
+이진수구하기(2)  -> str(이진수구하기(1)) + str(0) -> 10
+이진수구하기(1)  -> 1
+'''
+# 문자열 뒤집기
+def 문자열뒤집기(문자열):
+    if 문자열 == '':
+        return None
+    else:
+        문자열뒤집기(문자열[1:]) #앞에 있으면 역순이 되고 뒤로 가면 정순이 된다.
+        print(문자열[0])
+print(문자열뒤집기('JooYeon'))
+
+def 문자열정순(문자열):
+    if 문자열 == '':
+        return None
+    else:
+        print(문자열[0])
+        문자열정순(문자열[1:])
+print(문자열정순('JooYeon'))
+
+# 문자열 뒤집기 - 반복문
+result1 = ''
+for i in 'JooYeon':
+    result1 = i + result1
+print(result1)
+
+result2 = ''
+for i in 'JooYeon':
+    result2 += i
+print(result2)
+
+# 문자열 숫자 덧셈
+x = 0
+for i in '2231':
+    x += int(i)
+print(x)
+
+
+def 문자열숫자합(문자열):
+    if 문자열 == '':
+        return 0
+    else:
+        return int(문자열[0]) + int(문자열숫자합(문자열[1:]))
+
+print(문자열숫자합('2231'))
+
