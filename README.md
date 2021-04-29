@@ -37,3 +37,7 @@
 + Regression (회귀)
   + [Regression (회귀)](https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Regression.py) 
   + [Simple Linear Regression (단순 선형 회귀)](https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Simple_Linear_Regression.py)
+
+
+--------------------------
+### Troubleshooting
