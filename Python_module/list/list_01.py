@@ -14,3 +14,6 @@ print(c)
 print(d)
 print(e)
 
+# 음수 인덱스
+print(e[-1])
+
