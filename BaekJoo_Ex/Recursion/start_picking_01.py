@@ -7,17 +7,18 @@ def get_stars(n):
             matrix.append(n[i % len(n)] + " " * len(n) + n[i % len(n)])
         else:
             matrix.append(n[i % len(n)] * 3)
-    return matrix
+    return(list(matrix))
 
 
 star = ["***", "* *", "***"]
-n = int(input())
+number = int(input())
 e = 0
-while n != 3:
-    n = int(n / 3)
-e += 1
+while number != 3:
+    number = int(number / 3)
+    e += 1
 
 for i in range(e):
     star = get_stars(star)
+    # print(star)
 for i in star:
     print(i)
