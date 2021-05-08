@@ -26,18 +26,4 @@
   + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Pandas)
 
 --------------------------
-### AI
-+ NLP: Natural Language Processing (자연어 처리)
-  + [Cleaning & Normalization (정제 & 정규화)](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Cleaning_Normalization)
-  + [One-Hot Encoding (원-핫 인코딩)](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/AI/One_Hot_Encoding)
-  + [Stemming & Lemmatization (어간 추출 & 표제어 추출)](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stemming_Lemmatization)
-  + [Stopword (불용어)](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Stopword)
-  + [Tokenizatior (토큰화)](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/NLP/Tokenizatior)
-
-+ Regression (회귀)
-  + [Regression (회귀)](https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Regression.py) 
-  + [Simple Linear Regression (단순 선형 회귀)](https://github.com/jysaa5/Violet_Study_Python/blob/master/AI/Regression/Simple_Linear_Regression.py)
-
-
---------------------------
 ### Troubleshooting
