@@ -1,4 +1,6 @@
-# 10872번: 팩토리얼
+# 문제: 10872번, 팩토리얼
+
+# solution 2
 number = int(input())
 
 

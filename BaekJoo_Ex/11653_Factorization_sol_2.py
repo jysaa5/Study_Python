@@ -1,4 +1,5 @@
-# 11653번: 소인수분해
+# 문제: 11653번, 소인수분해
+
 # solution 2
 number = int(input())
 result = []

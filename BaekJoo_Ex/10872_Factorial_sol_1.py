@@ -1,4 +1,6 @@
-# 10872번: 팩토리얼
+# 문제: 10872번, 팩토리얼
+
+# solution 1
 n = int(input())
 result = 1
 if n == 0:

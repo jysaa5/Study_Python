@@ -1,5 +1,6 @@
 # 2447번: 별 찍기 - 10
 
+# solution 1
 def get_stars(n):
     matrix = []
     for i in range(3 * len(n)):
