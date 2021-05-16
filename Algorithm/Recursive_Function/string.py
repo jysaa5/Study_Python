@@ -49,11 +49,11 @@ print(x)
 print('----------------------------------')
 
 
-def sum_string_number(문자열):
-    if 문자열 == '':
+def sum_string_number(input):
+    if input == '':
         return 0
     else:
-        return int(문자열[0]) + int(sum_string_number(문자열[1:]))
+        return int(input[0]) + int(sum_string_number(input[1:]))
 
 
 print(sum_string_number('2231'))
