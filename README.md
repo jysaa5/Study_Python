@@ -1,6 +1,7 @@
 # Python
 ### Python Study
-+ [Python]()
++ [Python](https://www.python.org/)
++ [Anaconda](https://www.anaconda.com/)
 + [Swagger](https://www.swagger.io/)
 
 --------------------------
