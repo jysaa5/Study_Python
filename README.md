@@ -1,5 +1,6 @@
-# Python
-### Python Study
+## :pencil2: Notion
++ [Study Room](https://violet-lilac.notion.site/Python-d924d4c2d12c4a788cbd9608a6eaafac)
+
 + [Python](https://www.python.org/)
 + [Anaconda](https://www.anaconda.com/)
 
