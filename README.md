@@ -1,10 +1,10 @@
 ## :pencil2: Notion
 + [Study Room](https://violet-lilac.notion.site/Python-d924d4c2d12c4a788cbd9608a6eaafac)
 
+## :computer: Technology Stack
 + [Python](https://www.python.org/)
 + [Anaconda](https://www.anaconda.com/)
 
---------------------------
 ### Algorithm
 + Grap (그래프)
   + [Binary Search Tree (이진 검색 트리)](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree)
