@@ -5,7 +5,7 @@
 + [Python](https://www.python.org/)
 + [Anaconda](https://www.anaconda.com/)
 
-## Algorithm
+## :hourglass_flowing_sand: Algorithm
 + Grap (그래프)
   + [Binary Search Tree (이진 검색 트리)](https://github.com/jysaa5/VioletCheese_Study_Python/tree/master/Algorithm/BinaryTree)
   + [Dijkstra algorithm (다익스트라 알고리즘)](https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/Graph/Dijkstra%20algorithm.py)
