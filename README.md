@@ -12,11 +12,7 @@
 + NP-Complete (완전 탐색, 전체 탐색)
   + [Set Covering (집합 커버링 문제)](https://github.com/jysaa5/Violet_Study_Python/blob/master/Algorithm/NP_Complete/Set_Covering.py)
 
-## Coding Test
-+ [BAEKJOON](https://www.acmicpc.net/)
-  + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/BaekJoo_Ex) 
-
-## Python Library
+## :ledger: Library
 + [DataFrame](https://pandas.pydata.org/pandas-docs/stable/reference/frame.html)
   + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/DataFrame)
 + [Matplotlib](https://matplotlib.org/)
@@ -26,3 +22,6 @@
 + [Pandas](https://pandas.pydata.org/)
   + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Pandas)
 
+## :pencil: Coding Test
++ [BAEKJOON](https://www.acmicpc.net/)
+  + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/BaekJoo_Ex) 
