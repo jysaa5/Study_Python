@@ -21,7 +21,7 @@
   + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Numpy)
 + [Pandas](https://pandas.pydata.org/)
   + [code](https://github.com/jysaa5/Violet_Study_Python/tree/master/AI/Pandas)
- + Encoding
++ Encoding
   + [chardet](https://github.com/chardet/chardet)
 
 ## :pencil: Coding Test
